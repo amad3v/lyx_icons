@@ -1,3 +1,3 @@
 # Lyx Icons
-Light lyx math icons for light themes.
+Light lyx math icons for dark themes.
 
